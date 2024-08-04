@@ -90,4 +90,4 @@ We extend our gratitude to the open-source community and the contributors who ma
 
 By leveraging the power of IoT and modern technology, this system aims to improve patient care by ensuring precise and timely medication delivery, reducing human error, and facilitating continuous monitoring.
 
-For any questions or support, please open an issue in the repository or contact us at [your email address].
+For any questions or support, please open an issue in the repository or contact us at iamnishantsoni4@gmail.com.
