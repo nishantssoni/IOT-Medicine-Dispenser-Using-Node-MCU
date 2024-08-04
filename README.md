@@ -25,6 +25,7 @@ The IoT-based Automated Medicine Dispensing System is designed to revolutionize 
 Watch the system in action on [YouTube](https://youtu.be/-U_aCeA-Vxg).
 
 ![Project Image](project_demo_image.jpg)
+![Project Image](ui_demo.png)
 
 ## How It Works
 
