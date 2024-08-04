@@ -67,15 +67,6 @@ Watch the system in action on [YouTube](https://youtu.be/-U_aCeA-Vxg).
 3. **Dispense Medicine**: The Node MCU microcontroller triggers the diaphragm pump to dispense the correct dosage.
 4. **View Historical Data**: Access historical dispensation data through the mobile application.
 
-## Contributing
-
-We welcome contributions to enhance the system's functionality. Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
 
 ## License
 
