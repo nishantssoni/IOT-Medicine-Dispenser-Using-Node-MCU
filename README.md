@@ -39,7 +39,7 @@ Watch the system in action on [YouTube](https://youtu.be/-U_aCeA-Vxg).
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/IOT-Medicine-Dispenser-Using-Node-MCU.git
+   git clone https://github.com/nishantssoni/IOT-Medicine-Dispenser-Using-Node-MCU.git
    ```
 
 2. **Set Up Firebase**
