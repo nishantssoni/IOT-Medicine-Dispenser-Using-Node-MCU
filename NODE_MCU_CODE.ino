@@ -142,10 +142,7 @@ const unsigned char PROGMEM bitmap_succes[] = {
   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff
 };
 
-
-
 /* ---------------------------------------------------------------------------------------------------- */
-
 
 
 /* ---------------------------------------------------------------------------------------------------- */
@@ -179,8 +176,6 @@ void setup() {
   digitalWrite(LED_BUILTIN, LOW);
 
   Serial.begin(115200);
-
-
 
 
   //display begins
